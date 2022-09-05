@@ -1,14 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+@import url('http://fonts.cdnfonts.com/css/allerta-stencil');
 
 
 
-*{
-  box-sizing: border-box;
-}
+
+
+
+
 
 body{
   background: #e5e5e5;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Allerta Stencil', sans-serif;
   display: -ms-flexbox;
   display: -webkit-box;
   display: flex;
